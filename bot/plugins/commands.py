@@ -125,7 +125,7 @@ async def start(bot, update):
         InlineKeyboardButton('🗣️Group', url=f'https://t.me/cinesubz'),
         InlineKeyboardButton('Channel🔊', url=f'https://t.me/cinesubz')
     ],[
-        InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://youtu.be/OTqZmADyOjU')
+        InlineKeyboardButton('🖥️ Tutorial Video 🖥️', url='https://dashboard.heroku.com')
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
