@@ -10,7 +10,6 @@ class Translation(object):
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
 <i>
--> Add Me To Any Group And Make Me Admin
 -> Please Watch The Video
 </i>
 <
