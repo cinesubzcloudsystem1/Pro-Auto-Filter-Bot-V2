@@ -5,9 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
-
-<b>😃 හායි, මට පුළුවන් ඔයාට CineSubz.com Site එකේ Movies Telegram එකට Download කරලා දෙන්න. කරන විදිහ දැන ගන්න ඕන නම් Help Click කරලා Help Video එක බලන්න  ❤️</b>
-
+<b>I am a Pro AutoFilterBot V2....😜</b>
+<b>Make me an admin for your group and channel then connect me....🎉</b>
+<b>🙂Watch the video below to build an Pro Autofilter bot V2 like me...</b>
+<b>Subscribe to the update channel to learn about my updates and activity...</b>
+<b>Press /help to know about available commands🤪</b>"""    
     
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
